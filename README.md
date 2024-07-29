@@ -1,0 +1,2 @@
+# OpenSelf
+Self Freedom software
